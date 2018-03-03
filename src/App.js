@@ -4,7 +4,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-    <div>pls</div>
+    <div>pls just work</div>
     );
   }
 }
